@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrakliKhuchua
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on any project, which will help me in development. 
 - 📫 You can reach me on: irakli@khuchua.com
 
